@@ -72,6 +72,6 @@
 - *S –* After attending a class in the WIL (Will Integrated Learning) program, I realised that my CV needed a few updates before it could be used to apply for jobs.
 - *T –* To achieve this objective, I needed to apply what I have learnt from the class about creating a professional CV and edit my own.
 - *A –* I have update my personal summary to make it clearer and more concise, added more contact details, and corrected any grammatical errors.
-- *R –* As a result, my CV was now ready to be sent out for job applications, containing all the relevant information in a structured format.
+- *R –* As a result, my CV was now ready to be sent out for job applications, containing all the relevant information in a structured format.
 
 ---
