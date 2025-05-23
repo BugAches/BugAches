@@ -4,7 +4,7 @@
 
 ### Evidence
 
-![Career development screenshot](https://github.com/user-attachments/assets/6ef255af-51b3-4d06-89d3-5e388f1d60f5)
+![Career development course evidence with result](https://github.com/user-attachments/assets/6ef255af-51b3-4d06-89d3-5e388f1d60f5)
 
 
 ### Reflection
@@ -19,7 +19,7 @@
 
 ### Evidence
 
-![Skills and interest screenshot](https://github.com/user-attachments/assets/f156c29e-49a0-4f50-9b00-9c3ca8abbb6f)
+![Skills and interest course evidence with result](https://github.com/user-attachments/assets/f156c29e-49a0-4f50-9b00-9c3ca8abbb6f)
 
 
 ### Reflection – STAR Technique
@@ -34,7 +34,7 @@
 
 ### Evidence
 
-![Personally assessment screenshot](https://github.com/user-attachments/assets/512d9b20-fe46-493b-84a0-c6e42ac163b1)
+![Personally assessment evidence with result](https://github.com/user-attachments/assets/512d9b20-fe46-493b-84a0-c6e42ac163b1)
 
 
 ### Reflection – STAR Technique
@@ -49,13 +49,13 @@
 
 ### Evidence
 
-![Create a CV screenshot](https://github.com/user-attachments/assets/38d53846-6799-467c-ad08-f348028c72af)
+![Create a CV course evidence with result](https://github.com/user-attachments/assets/38d53846-6799-467c-ad08-f348028c72af)
 
 
 ### Reflection – STAR Technique
 - *S –* Before tackling the course, I had limited knowledge of how to create a professional CV.
 - *T –* I would need to learn to how create a CV that effectively highlights my skills, strengths, and experiences that would interest the company I would apply to.
-- *A –* . In order to achieve this, I learnt how to structure my CV with relevant sections that should be in a CV that would be specific to certain jobs.
+- *A –* In order to achieve this, I learnt how to structure my CV with relevant sections that should be in a CV that would be specific to certain jobs.
 - *R –* Now, I understand how to present myself to interviewers in a professional manner and how to develop a CV that is clear and impactful.
 
 ---
@@ -64,12 +64,13 @@
 
 ### Evidence
 
+![CV submission evidence](https://github.com/user-attachments/assets/e291e835-6737-4b17-af21-80eb516bcb10)
 
 
 ### Reflection – STAR Technique
-- *S –* 
-- *T –* 
-- *A –* 
-- *R –* 
+- *S –* After attending a class in the WIL (Will Integrated Learning) program, I realised that my CV needed a few updates before it could be used to apply for jobs.
+- *T –* To achieve this objective, I needed to apply what I have learnt from the class about creating a professional CV and edit my own.
+- *A –* I have update my personal summary to make it clearer and more concise, added more contact details, and corrected any grammatical errors.
+- *R –* As a result, my CV was now ready to be sent out for job applications, containing all the relevant information in a structured format.
 
 ---
